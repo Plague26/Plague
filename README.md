@@ -1,0 +1,2 @@
+# Plague
+My static Website
